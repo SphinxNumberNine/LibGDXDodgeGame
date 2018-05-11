@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ChitraRamaswamy/Documents/school/Programming/gdx4/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ff14d5279de9d2487b4c30b5f0b6042adf3a81c0">
+        <dex dex="/Users/ChitraRamaswamy/Documents/school/Programming/gdx4/android/build/intermediates/pre-dexed/debug/core-1.0_84e9a499a6d7d6a664cce9318b1eca13dc4dbbc9.jar" />
+    </item>
+
+</items>
